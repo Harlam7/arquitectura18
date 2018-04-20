@@ -1,1 +1,1 @@
-# arquitec- Juan Herrera-Camilo Giraldo-Daniel Sanchez
+# arq Nicolas Duque- Julian Osorio Salazar
