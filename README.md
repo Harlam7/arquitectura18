@@ -1,2 +1,1 @@
-# arquitectura18
-Repositorio para la materia de arquitectura
+# arquitec- Juan Herrera-Camilo Giraldo-Daniel Sanchez
